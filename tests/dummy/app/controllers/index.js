@@ -22,7 +22,7 @@ export default Controller.extend({
     fetchRecords(){
       this.fetchRecords();
     },
-    goToPage(page){
+    goToPage(/*page*/){
 
     }
   }
