@@ -1,0 +1,23 @@
+<table class="mx-auto mt-4 w-66 table">
+
+  <thead>
+    <th>Name</th>
+    <th>Age</th>
+    <th>Nickname</th>
+    <th>Evil</th>
+  </thead>
+
+  <tbody>
+
+    {{#each characters as |character|}}
+      <tr>
+        <td>{{character.name}}</td>
+        <td>{{character.age}}</td>
+        <td>{{character.nickname}}</td>
+        <td>{{character.evil}}</td>
+      </tr>
+    {{/each}}
+
+  </tbody>
+
+</table>
