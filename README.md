@@ -1,5 +1,8 @@
-ember-tabler
+Ember Tabler
 ==============================================================================
+
+[![Build Status](https://travis-ci.org/BellGasp/ember-tabler.svg?branch=master)](https://travis-ci.org/BellGasp/ember-tabler)
+[![Maintainability](https://api.codeclimate.com/v1/badges/b2f9820d6c35606390ab/maintainability)](https://codeclimate.com/github/BellGasp/ember-tabler/maintainability)
 
 [Short description of the addon.]
 
